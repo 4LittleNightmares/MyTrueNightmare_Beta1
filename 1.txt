@@ -1,0 +1,6 @@
+Who created C++
+3
+You
+Me
+Bjarne Stoustrup
+2

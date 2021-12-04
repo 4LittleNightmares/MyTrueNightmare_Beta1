@@ -1,0 +1,6 @@
+Pergunta 
+Numero de respostas
+Resposta 1
+Resposta 2
+Resposta 3
+Resposta correta (BTW é melhor n haver espaços)
